@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import SettingsModal from "../ModalStting/ModalSetting";
-import appleGif from "../../assets/apple.png";
+import appleGif from "../../assets/apple.webp";
 export type KeyBindings = {
   up: string;
   down: string;
